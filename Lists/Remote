@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 110
-# Updated: 9/14/2022  16:11 (4:11 PM CST)
+# Domains: 111
+# Updated: 11/21/2022  17:03 (5:03 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
@@ -42,6 +42,7 @@ getgo.com
 getscreen.me
 glancecdn.net
 glance.net
+gosupportnow.com
 gotoassist.com
 goto.com
 gotomanage.com
